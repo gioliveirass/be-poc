@@ -40,3 +40,4 @@ C:\Users\user\Desktop\Giovana\be-poc\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\user\Desktop\Giovana\be-poc\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\user\Desktop\Giovana\be-poc\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\user\Desktop\Giovana\be-poc\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\Desktop\Giovana\be-poc\obj\Debug\net8.0\be-poc.sourcelink.json
