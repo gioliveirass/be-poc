@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+  db:
+    image: mysql/mysql-server:latest
+    container_name: mysql
+    restart: always
+    environment:
+      - MYSQL_DATABASE=poc
+      - MYSQL_ROOT_PASSWORD=123456
+
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-volume:/var/lib/mysql
+volumes:
+  mysql-volume:
+    driver: local
