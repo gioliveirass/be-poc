@@ -39,4 +39,4 @@ Após isso, ainda na raiz do projeto, execute os comandos:
     dotnet run
 ```
 
-O projeto será inicializado em `http://localhost:5163/`. Também é possível verificar a documentação swagger em `http://localhost:5163/swagger/index.html`.
+O projeto será inicializado em http://localhost:5163/. Também é possível verificar a documentação swagger em http://localhost:5163/swagger/index.html.
